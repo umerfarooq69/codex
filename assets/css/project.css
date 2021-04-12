@@ -1,0 +1,102 @@
+section.sec-index-bond {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  width: 50%;
+  min-height: 50vh;
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+section.sec-index-bond.bg-img-bond {
+  background-image: url("../img/sec-img1.png");
+}
+section.sec-index-bond.bg-img-eMasjid {
+  background-image: url("../img/sec-img2.png");
+}
+section.sec-index-bond.bg-img-fliqly {
+  background-image: url("../img/sec-img3.png");
+}
+section.sec-index-bond.bg-img-korure {
+  background-image: url("../img/sec-img4.png");
+}
+section.sec-index-bond .main-content {
+  position: relative;
+}
+section.sec-index-bond .main-content h1 {
+  font-size: 35px;
+  color: #fff;
+  font-family: nb;
+  margin: 0px;
+  line-height: 46px;
+  position: relative;
+}
+section.sec-index-bond .main-content h1 a {
+  position: absolute;
+  right: 30px;
+  top: 0px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+section.sec-index-bond .main-content h1 a img {
+  width: 30px;
+}
+section.sec-index-bond .main-content p {
+  color: #fff;
+  margin: 35px 0px;
+  line-height: 23px;
+  margin-bottom: 55px;
+}
+section.sec-index-bond .main-content .btn {
+  position: relative;
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 0px;
+  font-size: 14px;
+  padding: 10px 20px;
+}
+section.sec-grid-main {
+  display: flex;
+}
+.sec-main-header {
+  position: relative;
+  background-image: none;
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: auto;
+}
+.sec-main-header .navbar-brand img {
+  width: 86%;
+}
+.sec-main-header .navbar-nav li.nav-item a {
+  color: #323232;
+  font-size: 14px;
+  padding: 15px 24px;
+  font-family: nm;
+}
+.sec-main-header .main-header-heading {
+  min-height: auto;
+  padding: 150px 0px;
+  display: flex;
+  align-items: center;
+}
+.sec-main-header .main-header-heading .content {
+  position: relative;
+}
+.sec-main-header .main-header-heading .content h1 {
+  font-family: nb;
+  font-size: 66px;
+  color: #323232;
+  line-height: 60px;
+}
+.sec-main-header .main-header-heading .content p {
+  font-size: 20px;
+  color: #323232;
+  line-height: 24px;
+  margin-top: 40px;
+}
+/*# sourceMappingURL=project.css.map */

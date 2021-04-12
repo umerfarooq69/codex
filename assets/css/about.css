@@ -1,0 +1,150 @@
+.sec-about-first {
+  position: relative;
+  padding: 150px 0px;
+}
+.sec-about-first .icons-main {
+  position: relative;
+  padding-left: 90px;
+  margin: 25px 0px;
+  min-height: 115px;
+  margin-bottom: 40px;
+}
+.sec-about-first .icons-main > img {
+  position: absolute;
+  left: 0px;
+  top: 10px;
+  width: 70px;
+  height: 75px;
+}
+.sec-about-first .icons-main h3 {
+  font-family: nb;
+  margin-bottom: 15px;
+  line-height: 20px;
+}
+.sec-about-first .icons-main p {
+  line-height: 18px;
+  color: #646464;
+  font-size: 14px;
+  font-family: nl;
+}
+section.sec-second-index .main-flex {
+  display: flex;
+}
+section.sec-second-index .main-flex .flex-child {
+  position: relative;
+  width: 50%;
+  padding: 150px;
+}
+section.sec-second-index .main-flex .flex-child h3 {
+  position: relative;
+  font-family: "nb";
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+section.sec-second-index .main-flex .flex-child p {
+  position: relative;
+  margin-bottom: 8px;
+  font-family: nt;
+}
+section.sec-second-index .main-flex .flex-child.left-flex {
+  background-color: #f5f5f5;
+  text-align: center;
+}
+section.sec-second-index .main-flex .flex-child.left-flex .aligment {
+  display: inline-block;
+  text-align: left;
+}
+section.sec-second-index .main-flex .flex-child.left-flex .aligment p {
+  color: #646464;
+}
+section.sec-second-index .main-flex .flex-child.right-flex {
+  background-color: #0078d6;
+}
+section.sec-second-index .main-flex .flex-child.right-flex .aligment {
+  display: inline-block;
+  text-align: left;
+}
+section.sec-second-index .main-flex .flex-child.right-flex .aligment h3 {
+  color: #fff;
+}
+section.sec-second-index .main-flex .flex-child.right-flex .aligment p {
+  color: #fff;
+}
+section.sec-about-third {
+  padding: 150px 0px;
+}
+section.sec-about-third .top-heading {
+  margin-bottom: 100px;
+}
+section.sec-about-third .flex-row {
+  position: relative;
+  display: flex;
+}
+section.sec-about-third .flex-row .col-2-flex {
+  width: 20%;
+  position: relative;
+  margin-bottom: 15px;
+}
+section.sec-about-third .flex-row .col-2-flex .line {
+  position: absolute;
+  left: 0px;
+  top: 100px;
+  height: 14px;
+  width: 100%;
+}
+section.sec-about-third .flex-row .col-2-flex .line.color1 {
+  background-color: #b2d6f3;
+}
+section.sec-about-third .flex-row .col-2-flex .line.color2 {
+  background-color: #8cc2ed;
+}
+section.sec-about-third .flex-row .col-2-flex .line.color3 {
+  background-color: #66aee6;
+}
+section.sec-about-third .flex-row .col-2-flex .line.color4 {
+  background-color: #409ae0;
+}
+section.sec-about-third .flex-row .col-2-flex .line.color5 {
+  background-color: #0078d6;
+}
+section.sec-about-third .flex-row .col-2-flex img {
+  position: relative;
+  height: 65px;
+  margin-bottom: 80px;
+}
+section.sec-about-third .flex-row .col-2-flex h3 {
+  font-family: nb;
+  color: #323232;
+  font-size: 24px;
+}
+section.sec-about-third .flex-row .col-2-flex p {
+  margin-top: 15px;
+  color: #646464;
+  font-size: 14px;
+}
+section.sec-counter {
+  position: relative;
+  background-color: #0078d6;
+  color: #fff;
+  padding: 100px 0px;
+}
+section.sec-counter p {
+  color: #fff;
+}
+section.sec-counter .counter-content {
+  position: relative;
+  margin-top: 50px;
+}
+section.sec-counter .counter-content h3 {
+  font-family: nb;
+  font-size: 55px;
+  color: #fff;
+  margin-bottom: 5px;
+  line-height: 35px;
+}
+section.sec-counter .counter-content p {
+  position: relative;
+  color: #fff;
+  font-family: nl;
+}
+/*# sourceMappingURL=about.css.map */

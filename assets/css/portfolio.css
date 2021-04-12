@@ -1,0 +1,1075 @@
+.heading-portfolio {
+  font-family: "nb";
+  font-size: 30px;
+  margin-bottom: 50px;
+  line-height: 31px;
+}
+.heading-portfolio p {
+  font-family: nr;
+  font-size: 16px;
+  margin-top: 20px;
+  line-height: 20px;
+  color: #7d7d7d;
+}
+.sec-last-k {
+  position: relative;
+  padding: 80px 0px;
+  text-align: center;
+}
+.sec-last-k p {
+  color: #fff;
+  font-size: 14px;
+}
+.sec-last-k .content {
+  display: inline-block;
+  text-align: left;
+}
+.sec-last-k .content .lastimg {
+  position: relative;
+  margin-top: 40px;
+}
+.sec-last-k .content .lastimg img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 5px;
+  position: relative;
+  top: -10px;
+}
+.sec-last-k .content .lastimg p {
+  display: inline-block;
+  font-family: nm;
+}
+section.sec-korure {
+  position: relative;
+}
+section.sec-korure .header img {
+  width: 100%;
+}
+section.sec-korure .sec-one {
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+section.sec-korure .sec-one > img {
+  width: 500px;
+  position: absolute;
+  right: -135px;
+  top: -129px;
+}
+section.sec-korure .sec-one .one-img {
+  position: relative;
+}
+section.sec-korure .sec-one .one-img p {
+  margin-top: 80px;
+  color: #323232;
+  line-height: 20px;
+}
+section.sec-korure .sec-two {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+section.sec-korure .sec-two .main-left {
+  position: relative;
+  padding-bottom: 35px;
+  border-right: 1px solid #bbb;
+  padding-right: 100px;
+  width: 95%;
+}
+section.sec-korure .sec-two .main-left.font2 p {
+  font-family: nb;
+}
+section.sec-korure .sec-two .main-left.font1 p {
+  font-family: nr;
+}
+section.sec-korure .sec-two .main-left > span {
+  color: #36ac6e;
+  font-family: nb;
+}
+section.sec-korure .sec-two .main-left p {
+  position: relative;
+  font-family: "nm";
+  color: #767676;
+}
+section.sec-korure .sec-two .main-left p .left-char {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+section.sec-korure .sec-two .right-main {
+  position: relative;
+}
+section.sec-korure .sec-two .right-main p {
+  position: relative;
+  margin-top: 30px;
+}
+section.sec-korure .sec-two .right-main p.lastWhite {
+  margin-top: 60px;
+}
+section.sec-korure .sec-two .right-main p span {
+  display: inline-block;
+}
+section.sec-korure .sec-two .right-main p .color-name {
+  width: 100px;
+  font-size: 12px;
+  color: #cccccc;
+}
+section.sec-korure .sec-two .right-main p .color {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: relative;
+  bottom: -25px;
+  margin-right: 15px;
+}
+section.sec-korure .sec-two .right-main p .color.color1 {
+  background-color: #36ac6e;
+}
+section.sec-korure .sec-two .right-main p .color.color2 {
+  background-color: #0a2e4e;
+}
+section.sec-korure .sec-two .right-main p .color.color3 {
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+section.sec-korure .sec-headings {
+  position: relative;
+  padding: 50px 0px;
+}
+section.sec-korure .sec-headings .img-big {
+  position: relative;
+  margin-bottom: 70px;
+}
+section.sec-korure .sec-headings .img-big img {
+  width: 100%;
+}
+section.sec-korure .sec-headings .k5h {
+  margin: 50px 0px;
+}
+section.sec-korure .sec-headings .k5h img {
+  width: 400px;
+}
+section.sec-korure .sec-headings .main-k5 {
+  position: relative;
+}
+section.sec-korure .sec-headings .main-k5 .k5-1 {
+  position: relative;
+}
+section.sec-korure .sec-headings .main-k5 .k5-1 img {
+  width: 100%;
+}
+section.sec-korure .sec-headings .main-k5 .k5-flex {
+  display: flex;
+}
+section.sec-korure .sec-headings .main-k5 .k5-flex .flex1 {
+  width: 50%;
+}
+section.sec-korure .sec-headings .main-k5 .k5-flex .flex1 img {
+  width: 100%;
+  height: 433px;
+}
+section.sec-korure .sec-k8 {
+  position: relative;
+  margin-bottom: 40px;
+}
+section.sec-korure .sec-k8 img {
+  width: 100%;
+}
+section.sec-korure .sec-k9 {
+  position: relative;
+  margin-bottom: 30px;
+}
+section.sec-korure .sec-k9 img {
+  width: 100%;
+}
+section.sec-korure .sec-k10 {
+  position: relative;
+  margin-bottom: 150px;
+}
+section.sec-korure .sec-k10 .main-k5 {
+  position: relative;
+}
+section.sec-korure .sec-k10 .main-k5 .k5-1 {
+  position: relative;
+}
+section.sec-korure .sec-k10 .main-k5 .k5-1 img {
+  width: 100%;
+}
+section.sec-korure .sec-k10 .main-k5 .k5-flex {
+  display: flex;
+}
+section.sec-korure .sec-k10 .main-k5 .k5-flex .flex1 {
+  width: 50%;
+}
+section.sec-korure .sec-k10 .main-k5 .k5-flex .flex1 img {
+  width: 100%;
+  object-fit: cover;
+  height: 433px;
+}
+section.sec-korure .sec-k13 {
+  position: relative;
+  margin-bottom: 200px;
+}
+section.sec-korure .sec-k13 .heading-img {
+  margin-bottom: 40px;
+}
+section.sec-korure .sec-k13 .heading-img img {
+  width: 300px;
+}
+section.sec-korure .sec-k13 .flex1 {
+  display: flex;
+}
+section.sec-korure .sec-k13 .flex1 div {
+  width: 50%;
+}
+section.sec-korure .sec-k13 .flex1 div img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+section.sec-korure .sec-k13 .flex2 {
+  display: flex;
+}
+section.sec-korure .sec-k13 .flex2 img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+section.sec-korure .sec-k13 .flex2 div:nth-child(1) {
+  width: 30%;
+}
+section.sec-korure .sec-k13 .flex2 div:nth-child(2) {
+  width: 70%;
+}
+section.sec-korure .sec-k18 {
+  position: relative;
+  margin-bottom: 150px;
+}
+section.sec-korure .sec-k18 .heading-img {
+  margin-bottom: 40px;
+}
+section.sec-korure .sec-k18 .heading-img img {
+  width: 300px;
+}
+section.sec-korure .sec-k18 .k19 img {
+  width: 100%;
+}
+section.sec-korure .sec-k20 {
+  position: relative;
+  margin-bottom: 200px;
+}
+section.sec-korure .sec-k20 .heading-img {
+  margin-bottom: 40px;
+  padding: 2.5px;
+}
+section.sec-korure .sec-k20 .heading-img img {
+  width: 300px;
+}
+section.sec-korure .sec-k20 .flex1 {
+  display: flex;
+}
+section.sec-korure .sec-k20 .flex1 div {
+  width: 50%;
+  padding: 2.5px;
+}
+section.sec-korure .sec-k20 .flex1 div img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+section.sec-korure .sec-k20 .flex2 {
+  display: flex;
+}
+section.sec-korure .sec-k20 .flex2 img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+section.sec-korure .sec-k20 .flex2 div {
+  padding: 2.5px;
+}
+section.sec-korure .sec-k20 .flex2 div:nth-child(2) {
+  width: 30%;
+}
+section.sec-korure .sec-k20 .flex2 div:nth-child(1) {
+  width: 70%;
+}
+section.sec-korure .sec-k27 {
+  position: relative;
+  margin-bottom: 50px;
+}
+section.sec-korure .sec-k27 .heading-img {
+  margin-bottom: 40px;
+}
+section.sec-korure .sec-k27 .heading-img img {
+  width: 300px;
+}
+section.sec-korure .sec-k27 .flex1 {
+  display: flex;
+}
+section.sec-korure .sec-k27 .flex1 div:nth-child(1) {
+  width: 70%;
+}
+section.sec-korure .sec-k27 .flex1 div:nth-child(1) img {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+}
+section.sec-korure .sec-k27 .flex1 div:nth-child(2) {
+  width: 30%;
+  display: flex;
+  align-items: flex-end;
+  padding: 5px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+}
+section.sec-korure .sec-k27 .flex1 div:nth-child(2) img {
+  width: 100%;
+  object-fit: cover;
+  height: 300px;
+}
+section.sec-korure .sec-k30 {
+  position: relative;
+  padding-bottom: 30px;
+}
+section.sec-korure .sec-k30 .mainFlex {
+  position: relative;
+  display: flex;
+}
+section.sec-korure .sec-k30 .mainFlex img {
+  width: 100%;
+}
+section.sec-korure .sec-k30 .mainFlex .flex1 {
+  width: 25%;
+}
+section.sec-korure .sec-k30 .mainFlex .flex1:nth-child(1) img {
+  height: 600px;
+  object-fit: cover;
+}
+section.sec-korure .sec-k30 .mainFlex .flex1:nth-child(2) img {
+  height: 300px;
+}
+section.sec-korure .sec-k30 .mainFlex .flex1:nth-child(2) img:nth-child(1) {
+  padding-bottom: 2.5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+section.sec-korure .sec-k30 .mainFlex .flex1:nth-child(2) img:nth-child(2) {
+  padding-top: 2.5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+section.sec-korure .sec-k30 .mainFlex .flex1:nth-child(3) {
+  width: 50%;
+}
+section.sec-korure .sec-k30 .mainFlex .flex1:nth-child(3) img {
+  height: 600px;
+  object-fit: cover;
+}
+section.sec-korure .sec-last-k {
+  background-color: #36ac6e;
+}
+section.sec-bond {
+  position: relative;
+}
+section.sec-bond .head {
+  position: relative;
+}
+section.sec-bond .head img {
+  width: 100%;
+}
+section.sec-bond .sec-one {
+  position: relative;
+  padding: 150px 0px;
+}
+section.sec-bond .sec-one p {
+  font-family: nt;
+  color: #7d7d7d;
+}
+section.sec-bond .sec-one .left-content {
+  position: relative;
+}
+section.sec-bond .sec-one .left-content h2 {
+  position: relative;
+  font-family: nb;
+  line-height: 30px;
+  margin-bottom: 40px;
+  color: #323232;
+}
+section.sec-bond .sec-b2 {
+  position: relative;
+}
+section.sec-bond .sec-b2 img {
+  width: 100%;
+}
+section.sec-bond .sec-b3 {
+  position: relative;
+  padding: 150px;
+}
+section.sec-bond .sec-b3 .b3 {
+  position: relative;
+  text-align: center;
+  margin-bottom: 80px;
+}
+section.sec-bond .sec-b3 .b3 img {
+  width: 350px;
+  cursor: pointer;
+}
+section.sec-bond .sec-b3 .b4 {
+  position: relative;
+  text-align: center;
+}
+section.sec-bond .sec-b3 .b4 img {
+  width: 100%;
+}
+section.sec-bond .sec-b5 {
+  position: relative;
+  padding-bottom: 150px;
+}
+section.sec-bond .sec-b5 .main-flex {
+  display: flex;
+}
+section.sec-bond .sec-b5 .main-flex .flex-grid {
+  width: calc(100% / 3);
+  align-items: center;
+  display: flex;
+}
+section.sec-bond .sec-b5 .main-flex .flex-grid h2 {
+  font-family: nb;
+  color: #323232;
+  line-height: 28px;
+  margin-bottom: 25px;
+}
+section.sec-bond .sec-b5 .main-flex .flex-grid p {
+  color: #7d7d7d;
+  margin-top: 15px;
+  line-height: 20px;
+}
+section.sec-bond .sec-b5 .main-flex .flex-grid img {
+  width: 100%;
+  height: 370px;
+  object-fit: cover;
+}
+section.sec-bond .sec-b10 {
+  position: relative;
+  padding-bottom: 150px;
+}
+section.sec-bond .sec-b10 .main-flex {
+  display: flex;
+}
+section.sec-bond .sec-b10 .main-flex .flex-grid {
+  width: calc(100% / 2);
+  align-items: center;
+  display: flex;
+}
+section.sec-bond .sec-b10 .main-flex .flex-grid h2 {
+  font-family: nb;
+  color: #323232;
+}
+section.sec-bond .sec-b10 .main-flex .flex-grid p {
+  color: #7d7d7d;
+  line-height: 20px;
+}
+section.sec-bond .sec-b10 .main-flex .flex-grid img {
+  width: 300px;
+  display: block;
+  margin: auto;
+  object-fit: cover;
+}
+section.sec-bond .sec-b11 {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+section.sec-bond .sec-b11 .main-left {
+  position: relative;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  width: 95%;
+}
+section.sec-bond .sec-b11 .main-left.font1 p {
+  font-family: nt;
+}
+section.sec-bond .sec-b11 .main-left.font2 p {
+  font-family: nr;
+}
+section.sec-bond .sec-b11 .main-left.font3 p {
+  font-family: nm;
+}
+section.sec-bond .sec-b11 .main-left.font4 p {
+  font-family: nb;
+}
+section.sec-bond .sec-b11 .main-left > span {
+  color: #36ac6e;
+  font-family: nb;
+}
+section.sec-bond .sec-b11 .main-left p {
+  position: relative;
+  font-family: "nm";
+  color: #767676;
+}
+section.sec-bond .sec-b11 .main-left p .left-char {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+section.sec-bond .sec-b11 .flex-main {
+  display: flex;
+}
+section.sec-bond .sec-b11 .flex-main .flexWrap {
+  width: calc(100% / 2);
+  padding: 0px 10px;
+}
+section.sec-bond .sec-b11 .flex-main .flexWrap img {
+  width: 170px;
+  max-width: 100%;
+}
+section.sec-bond .sec-b13 {
+  position: relative;
+  padding-bottom: 150px;
+}
+section.sec-bond .sec-b13 .main-flex {
+  display: flex;
+}
+section.sec-bond .sec-b13 .main-flex .flex-grid {
+  width: calc(100% / 3);
+  align-items: center;
+  display: flex;
+}
+section.sec-bond .sec-b13 .main-flex .flex-grid img {
+  width: 100%;
+  height: 370px;
+  object-fit: cover;
+}
+section.sec-bond .sec-b19 {
+  position: relative;
+  padding: 150px 0px;
+  padding-top: 50px;
+}
+section.sec-bond .sec-b19 .flex-main {
+  display: flex;
+}
+section.sec-bond .sec-b19 .flex-main .flex-wrap {
+  width: calc(100% / 2);
+}
+section.sec-bond .sec-b19 .flex-main .flex-wrap img {
+  display: block;
+  width: 450px;
+  max-width: 100%;
+  margin: auto;
+}
+section.sec-bond .sec-b20 {
+  position: relative;
+  padding: 100px 0px;
+}
+section.sec-bond .sec-b20 .flex-main {
+  display: flex;
+}
+section.sec-bond .sec-b20 .flex-main .flex-wrap {
+  width: calc(100% / 2);
+  display: flex;
+  min-height: 600px;
+}
+section.sec-bond .sec-b20 .flex-main .flex-wrap.color-one {
+  background-color: #45e19f;
+  align-items: center;
+  padding-left: 110px;
+}
+section.sec-bond .sec-b20 .flex-main .flex-wrap.color-one .heading-portfolio {
+  margin-bottom: 0px;
+}
+section.sec-bond .sec-b20 .flex-main .flex-wrap.color-one .heading-portfolio p {
+  font-family: nt;
+}
+section.sec-bond .sec-b20 .flex-main .flex-wrap.color-one .aligment {
+  color: #fff;
+}
+section.sec-bond .sec-b20 .flex-main .flex-wrap.color-one .aligment p {
+  color: #fff;
+}
+section.sec-bond .sec-b20 .flex-main .flex-wrap img {
+  display: block;
+  width: 350px;
+  max-width: 100%;
+  margin: auto;
+}
+section.sec-bond .sec-b21 {
+  position: relative;
+}
+section.sec-bond .sec-b21 .flex-main {
+  display: flex;
+}
+section.sec-bond .sec-b21 .flex-main .flex-wrap {
+  width: calc(100% / 2);
+}
+section.sec-bond .sec-b21 .flex-main .flex-wrap img {
+  width: 100%;
+  height: 580px;
+  object-fit: cover;
+}
+section.sec-bond .sec-b23 {
+  position: relative;
+  padding: 50px 0px;
+}
+section.sec-bond .sec-b23 .flex-main {
+  display: flex;
+}
+section.sec-bond .sec-b23 .flex-main .flex-wrap {
+  padding: 3px;
+}
+section.sec-bond .sec-b23 .flex-main .flex-wrap:nth-child(1) {
+  width: 35%;
+}
+section.sec-bond .sec-b23 .flex-main .flex-wrap:nth-child(2) {
+  width: 65%;
+}
+section.sec-bond .sec-b23 .flex-main .flex-wrap img {
+  width: 100%;
+  object-fit: cover;
+  height: 450px;
+}
+section.sec-bond .sec-b27 {
+  position: relative;
+  padding-bottom: 150px;
+}
+section.sec-bond .sec-b27 .flex-main {
+  display: flex;
+}
+section.sec-bond .sec-b27 .flex-main .flex-wrap {
+  padding: 3px;
+}
+section.sec-bond .sec-b27 .flex-main .flex-wrap:nth-child(1) {
+  width: 35%;
+}
+section.sec-bond .sec-b27 .flex-main .flex-wrap:nth-child(2) {
+  width: 65%;
+}
+section.sec-bond .sec-b27 .flex-main .flex-wrap img {
+  width: 100%;
+  object-fit: cover;
+  height: 450px;
+}
+section.sec-bond .sec-last-k {
+  background-color: #093580;
+}
+section.sec-filiqly {
+  position: relative;
+}
+section.sec-filiqly .head {
+  position: relative;
+  text-align: center;
+}
+section.sec-filiqly .head img {
+  max-width: 100%;
+  height: 100vh;
+}
+section.sec-filiqly .sec-two {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+section.sec-filiqly .sec-two .main-left {
+  position: relative;
+  padding-bottom: 35px;
+}
+section.sec-filiqly .sec-two .main-left.font1 p {
+  font-family: nt;
+}
+section.sec-filiqly .sec-two .main-left.font2 p {
+  font-family: nr;
+}
+section.sec-filiqly .sec-two .main-left.font3 p {
+  font-family: nm;
+}
+section.sec-filiqly .sec-two .main-left.font4 p {
+  font-family: nb;
+}
+section.sec-filiqly .sec-two .main-left > span {
+  color: #36ac6e;
+  font-family: nb;
+}
+section.sec-filiqly .sec-two .main-left p {
+  position: relative;
+  font-family: "nm";
+  color: #767676;
+}
+section.sec-filiqly .sec-two .main-left p .left-char {
+  display: block;
+}
+section.sec-filiqly .sec-two .right-main {
+  position: relative;
+  display: flex;
+}
+section.sec-filiqly .sec-two .right-main.last-child {
+  padding-left: 100px;
+  border-left: 1px solid #cecece;
+}
+section.sec-filiqly .sec-two .right-main p {
+  width: calc(100% / 4);
+}
+section.sec-filiqly .sec-two .right-main p span {
+  display: block;
+  min-height: 25px;
+  color: #cecece;
+  font-size: 14px;
+}
+section.sec-filiqly .sec-two .right-main p span.textcolor1 {
+  color: #ffc000;
+}
+section.sec-filiqly .sec-two .right-main p span.textcolor2 {
+  color: #272d3c;
+}
+section.sec-filiqly .sec-two .right-main p span.textcolor3 {
+  color: #393d4f;
+}
+section.sec-filiqly .sec-two .right-main p span.textcolor4 {
+  color: #494f5c;
+}
+section.sec-filiqly .sec-two .right-main p i {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: block;
+  margin: 10px 0px;
+}
+section.sec-filiqly .sec-two .right-main p i.color1 {
+  background-color: #ffc000;
+}
+section.sec-filiqly .sec-two .right-main p i.color2 {
+  background-color: #272d3c;
+}
+section.sec-filiqly .sec-two .right-main p i.color3 {
+  background-color: #393d4f;
+}
+section.sec-filiqly .sec-two .right-main p i.color4 {
+  background-color: #494f5c;
+}
+section.sec-filiqly .sec-f2 {
+  position: relative;
+  margin: 100px 0px;
+}
+section.sec-filiqly .sec-f2 .container {
+  position: relative;
+}
+section.sec-filiqly .sec-f2 .fb1 {
+  position: absolute;
+  width: 100px;
+  left: 25%;
+  top: 43px;
+}
+section.sec-filiqly .sec-f2 .fb2 {
+  position: absolute;
+  width: 80px;
+  right: 25%;
+  bottom: -50px;
+}
+section.sec-filiqly .sec-f2 .f2-img {
+  position: relative;
+  margin: 15px 0px;
+}
+section.sec-filiqly .sec-f2 .f2-img img {
+  width: 100%;
+}
+section.sec-filiqly .sec-f6 {
+  position: relative;
+  margin: 100px 0px;
+  margin-top: 250px;
+}
+section.sec-filiqly .sec-f6 .main-img {
+  position: relative;
+  text-align: center;
+}
+section.sec-filiqly .sec-f6 .main-img img {
+  width: 80%;
+}
+section.sec-filiqly .sec-f7 {
+  position: relative;
+  margin: 100px 0px;
+}
+section.sec-filiqly .sec-f7 .heading-portfolio {
+  position: relative;
+  bottom: -70px;
+}
+section.sec-filiqly .sec-f7 .main-img {
+  position: relative;
+  text-align: center;
+}
+section.sec-filiqly .sec-f7 .main-img img {
+  width: 80%;
+}
+section.sec-filiqly .sec-f8 {
+  position: relative;
+  margin: 100px 0px;
+  margin-top: 200px;
+}
+section.sec-filiqly .sec-f8 .heading-portfolio {
+  position: relative;
+}
+section.sec-filiqly .sec-f8 .main-img {
+  position: relative;
+  text-align: center;
+}
+section.sec-filiqly .sec-f8 .main-img img {
+  width: 90%;
+}
+section.sec-filiqly .sec-f9 {
+  position: relative;
+  margin: 100px 0px;
+  margin-top: 200px;
+}
+section.sec-filiqly .sec-f9 .heading-portfolio {
+  position: relative;
+}
+section.sec-filiqly .sec-f9 .main-img {
+  position: relative;
+  text-align: center;
+}
+section.sec-filiqly .sec-f9 .main-img img {
+  width: 90%;
+}
+section.sec-filiqly .sec-f10 {
+  position: relative;
+  margin: 100px 0px;
+  margin-top: 200px;
+}
+section.sec-filiqly .sec-f10 .heading-portfolio {
+  position: relative;
+}
+section.sec-filiqly .sec-f10 .main-img {
+  position: relative;
+  text-align: center;
+}
+section.sec-filiqly .sec-f10 .main-img img {
+  width: 100%;
+}
+section.sec-filiqly .sec-f12 {
+  position: relative;
+  margin: 100px 0px;
+  margin-top: 200px;
+}
+section.sec-filiqly .sec-f12 .heading-portfolio {
+  position: relative;
+}
+section.sec-filiqly .sec-f12 .main-img {
+  position: relative;
+  text-align: center;
+}
+section.sec-filiqly .sec-f12 .main-img img {
+  width: 70%;
+}
+section.sec-filiqly .sec-f13 {
+  position: relative;
+  margin-top: 200px;
+}
+section.sec-filiqly .sec-f13 .heading-portfolio {
+  position: relative;
+}
+section.sec-filiqly .sec-f13 .main-img {
+  position: relative;
+  text-align: center;
+}
+section.sec-filiqly .sec-f13 .main-img img {
+  width: 80%;
+}
+section.sec-mosque {
+  position: relative;
+}
+section.sec-mosque .sec-m1 {
+  position: relative;
+  background-image: url(../img/m2.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: auto 100vh;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+section.sec-mosque .sec-m1 .logo-left {
+  position: relative;
+}
+section.sec-mosque .sec-m1 .logo-left img {
+  width: 240px;
+  margin-bottom: 40px;
+}
+section.sec-mosque .sec-m1 .logo-left span {
+  display: block;
+  color: #7d7d7d;
+  font-family: nm;
+  margin-bottom: 10px;
+}
+section.sec-mosque .sec-m1 .logo-left p {
+  color: #7d7d7d;
+  font-size: 14px;
+}
+section.sec-mosque .sec-m1 .logo-left .mosque-content {
+  margin-top: 25px;
+}
+section.sec-mosque .sec-m1 .logo-left .mosque-content p {
+  margin-bottom: 0px;
+  position: relative;
+  padding-left: 20px;
+}
+section.sec-mosque .sec-m1 .logo-left .mosque-content p img {
+  position: absolute;
+  width: 5px;
+  left: 0px;
+  top: 6px;
+}
+section.sec-mosque .sec-two {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+section.sec-mosque .sec-two .main-left {
+  position: relative;
+  padding-bottom: 35px;
+  border-right: 1px solid #bbb;
+  padding-right: 100px;
+  width: 95%;
+}
+section.sec-mosque .sec-two .main-left.font1 span,
+section.sec-mosque .sec-two .main-left.font1 p {
+  font-family: nt;
+}
+section.sec-mosque .sec-two .main-left.font2 span,
+section.sec-mosque .sec-two .main-left.font2 p {
+  font-family: nr;
+}
+section.sec-mosque .sec-two .main-left.font3 span,
+section.sec-mosque .sec-two .main-left.font3 p {
+  font-family: nm;
+}
+section.sec-mosque .sec-two .main-left > span {
+  color: #00d2ff;
+  font-family: nb;
+}
+section.sec-mosque .sec-two .main-left p {
+  position: relative;
+  font-family: "nm";
+  color: #767676;
+}
+section.sec-mosque .sec-two .main-left p .left-char {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+section.sec-mosque .sec-two .right-main {
+  position: relative;
+}
+section.sec-mosque .sec-two .right-main p {
+  position: relative;
+  margin: 0px;
+}
+section.sec-mosque .sec-two .right-main p.color-1 {
+  color: #3a92d5;
+}
+section.sec-mosque .sec-two .right-main p.color-1 .color {
+  background-color: #3a92d5;
+}
+section.sec-mosque .sec-two .right-main p.color-2 {
+  color: #00d2ff;
+}
+section.sec-mosque .sec-two .right-main p.color-2 .color {
+  background-color: #00d2ff;
+}
+section.sec-mosque .sec-two .right-main p.color-3 {
+  color: #1d1d1d;
+}
+section.sec-mosque .sec-two .right-main p.color-3 .color {
+  background-color: #1d1d1d;
+}
+section.sec-mosque .sec-two .right-main p.color-4 {
+  color: #585858;
+}
+section.sec-mosque .sec-two .right-main p.color-4 .color {
+  background-color: #585858;
+}
+section.sec-mosque .sec-two .right-main p.lastWhite {
+  margin-top: 30px;
+}
+section.sec-mosque .sec-two .right-main p span {
+  display: inline-block;
+}
+section.sec-mosque .sec-two .right-main p .color-name {
+  width: 100px;
+  font-size: 12px;
+  color: #cccccc;
+}
+section.sec-mosque .sec-two .right-main p .color {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: relative;
+  bottom: -25px;
+  margin-right: 15px;
+}
+section.sec-mosque .sec-m3 {
+  position: relative;
+  padding: 100px 0px;
+}
+section.sec-mosque .sec-m3 .left {
+  position: absolute;
+  left: 0px;
+  top: -100px;
+  height: 150vh;
+  z-index: -1;
+}
+section.sec-mosque .sec-m3 .m3-img {
+  position: relative;
+  text-align: center;
+  display: flex;
+}
+section.sec-mosque .sec-m3 .m3-img img {
+  width: calc(100% / 3);
+}
+section.sec-mosque .sec-m4 {
+  position: relative;
+  padding: 100px 0px;
+}
+section.sec-mosque .sec-m4 .right {
+  position: absolute;
+  right: 0px;
+  top: -220px;
+  height: 220vh;
+  z-index: -1;
+}
+section.sec-mosque .sec-m4 .m3-img img {
+  width: 100%;
+}
+section.sec-mosque .sec-m5 {
+  position: relative;
+  padding: 100px 0px;
+}
+section.sec-mosque .sec-m5 .left {
+  position: absolute;
+  left: 0px;
+  top: -350px;
+  height: 240vh;
+  z-index: -1;
+}
+section.sec-mosque .sec-m5 .m3-img img {
+  width: 100%;
+}
+section.sec-mosque .sec-m6 {
+  position: relative;
+  padding: 100px 0px;
+}
+section.sec-mosque .sec-m6 .right {
+  position: absolute;
+  right: 0px;
+  top: -220px;
+  height: 200vh;
+  z-index: -1;
+}
+section.sec-mosque .sec-m6 .m3-img img {
+  width: 100%;
+}
+/*# sourceMappingURL=portfolio.css.map */
