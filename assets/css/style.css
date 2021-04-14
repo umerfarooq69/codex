@@ -551,6 +551,10 @@ section.sec-contact section.sec-contact .input-main .input-wrap .form-control {
   font-family: kl;
   src: url(../fonts/Kurore/kl.otf);
 }
+@font-face {
+  font-family: nbl;
+  src: url(../fonts/nbl.ttf);
+}
 .heading-portfolio {
   font-family: "nb";
   font-size: 30px;
@@ -1083,17 +1087,29 @@ section.sec-bond .sec-b11 .main-left {
   padding-right: 100px;
   width: 95%;
 }
-section.sec-bond .sec-b11 .main-left.font1 p {
-  font-family: nt;
-}
-section.sec-bond .sec-b11 .main-left.font2 p {
+section.sec-bond .sec-b11 .main-left.font1 {
   font-family: nr;
 }
-section.sec-bond .sec-b11 .main-left.font3 p {
+section.sec-bond .sec-b11 .main-left.font1 p {
+  font-family: nr;
+}
+section.sec-bond .sec-b11 .main-left.font2 {
   font-family: nm;
 }
-section.sec-bond .sec-b11 .main-left.font4 p {
+section.sec-bond .sec-b11 .main-left.font2 p {
+  font-family: nm;
+}
+section.sec-bond .sec-b11 .main-left.font3 {
   font-family: nb;
+}
+section.sec-bond .sec-b11 .main-left.font3 p {
+  font-family: nb;
+}
+section.sec-bond .sec-b11 .main-left.font4 {
+  font-family: nbl;
+}
+section.sec-bond .sec-b11 .main-left.font4 p {
+  font-family: nbl;
 }
 section.sec-bond .sec-b11 .main-left > span {
   color: #36ac6e;
