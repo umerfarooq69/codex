@@ -50,6 +50,12 @@ body .hide-mobile {
 body .hide-mobile-f {
   display: flex;
 }
+nav.navbar.navbar-expand-md.navbar-default.navbar-dark.hide-mobile-f {
+  padding: 10px 0px;
+}
+.custom-container {
+  padding: 0px 115px;
+}
 @keyframes beat {
   to {
     transform: scale(1.06);
@@ -494,12 +500,12 @@ section.sec-contact .sec-main-header .main-header-heading .content p {
 }
 section.sec-contact section.sec-contact {
   position: relative;
-  padding: 100px 0px;
+  padding: 50px 0px;
 }
 section.sec-contact section.sec-contact img.contact-arrow {
   position: absolute;
   right: 100px;
-  width: 400px;
+  width: 500px;
   bottom: 20px;
 }
 section.sec-contact section.sec-contact .input-main {

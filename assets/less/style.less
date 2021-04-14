@@ -17,7 +17,6 @@
   src: url(../fonts/nb.ttf);
 }
 
-
 @font-face {
   font-family: nt;
   src: url(../fonts/nt.ttf);
@@ -52,22 +51,27 @@ body {
     background: #fff;
   }
 
-  .hide-desktop{
+  .hide-desktop {
     display: none;
   }
 
-  .hide-desktop-f{
+  .hide-desktop-f {
     display: none;
   }
 
-  .hide-mobile{
+  .hide-mobile {
     display: block;
   }
 
-  .hide-mobile-f{
+  .hide-mobile-f {
     display: flex;
   }
-  
+}
+nav.navbar.navbar-expand-md.navbar-default.navbar-dark.hide-mobile-f {
+  padding: 10px 0px;
+}
+.custom-container {
+  padding: 0px 115px;
 }
 
 @keyframes beat {
@@ -101,7 +105,7 @@ a {
   min-height: 100vh;
   background-attachment: fixed;
 
-  &.about-img{
+  &.about-img {
     background-image: url("./../img/about-header.png");
   }
 
@@ -215,7 +219,6 @@ section.sec-project {
 section.sec-contact {
   @import "./contact.less";
 }
-
 
 @import "./portfolio.less";
 @import "./media.less";
