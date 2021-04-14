@@ -535,6 +535,22 @@ section.sec-contact section.sec-contact .input-main .input-wrap .form-control {
   border-radius: 0px;
   border-color: #c7c7c7;
 }
+@font-face {
+  font-family: kr;
+  src: url(../fonts/Kurore/kr.otf);
+}
+@font-face {
+  font-family: kb;
+  src: url(../fonts/Kurore/kb.otf);
+}
+@font-face {
+  font-family: km;
+  src: url(../fonts/Kurore/km.otf);
+}
+@font-face {
+  font-family: kl;
+  src: url(../fonts/Kurore/kl.otf);
+}
 .heading-portfolio {
   font-family: "nb";
   font-size: 30px;
@@ -592,7 +608,7 @@ section.sec-korure .sec-one {
   align-items: center;
 }
 section.sec-korure .sec-one > img {
-  width: 500px;
+  width: 400px;
   position: absolute;
   right: -135px;
   top: -129px;
@@ -617,20 +633,28 @@ section.sec-korure .sec-two .main-left {
   border-right: 1px solid #bbb;
   padding-right: 100px;
   width: 95%;
+  font-family: kl;
+  letter-spacing: 0px;
+}
+section.sec-korure .sec-two .main-left.font2 {
+  font-family: kb;
 }
 section.sec-korure .sec-two .main-left.font2 p {
-  font-family: nb;
+  font-family: kb;
+}
+section.sec-korure .sec-two .main-left.font1 {
+  font-family: kr;
 }
 section.sec-korure .sec-two .main-left.font1 p {
-  font-family: nr;
+  font-family: kr;
 }
 section.sec-korure .sec-two .main-left > span {
   color: #36ac6e;
-  font-family: nb;
+  font-family: kb;
 }
 section.sec-korure .sec-two .main-left p {
   position: relative;
-  font-family: "nm";
+  font-family: "km";
   color: #767676;
 }
 section.sec-korure .sec-two .main-left p .left-char {
@@ -656,6 +680,10 @@ section.sec-korure .sec-two .right-main p .color-name {
   font-size: 12px;
   color: #cccccc;
 }
+section.sec-korure .sec-two .right-main p .color-name.relative {
+  position: relative;
+  top: -50px;
+}
 section.sec-korure .sec-two .right-main p .color {
   width: 60px;
   height: 60px;
@@ -677,6 +705,17 @@ section.sec-korure .sec-two .right-main p .color.color3 {
 section.sec-korure .sec-headings {
   position: relative;
   padding: 50px 0px;
+}
+section.sec-korure .sec-headings .abso-img {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  padding: 70px 0px;
+}
+section.sec-korure .sec-headings .abso-img .headingImg {
+  position: relative;
+  width: 500px;
 }
 section.sec-korure .sec-headings .img-big {
   position: relative;
