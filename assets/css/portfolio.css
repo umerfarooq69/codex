@@ -1,3 +1,23 @@
+@font-face {
+  font-family: kr;
+  src: url(../fonts/Kurore/kr.otf);
+}
+@font-face {
+  font-family: kb;
+  src: url(../fonts/Kurore/kb.otf);
+}
+@font-face {
+  font-family: km;
+  src: url(../fonts/Kurore/km.otf);
+}
+@font-face {
+  font-family: kl;
+  src: url(../fonts/Kurore/kl.otf);
+}
+@font-face {
+  font-family: nbl;
+  src: url(../fonts/nbl.ttf);
+}
 .heading-portfolio {
   font-family: "nb";
   font-size: 30px;
@@ -55,7 +75,7 @@ section.sec-korure .sec-one {
   align-items: center;
 }
 section.sec-korure .sec-one > img {
-  width: 500px;
+  width: 400px;
   position: absolute;
   right: -135px;
   top: -129px;
@@ -80,20 +100,28 @@ section.sec-korure .sec-two .main-left {
   border-right: 1px solid #bbb;
   padding-right: 100px;
   width: 95%;
+  font-family: kl;
+  letter-spacing: 0px;
+}
+section.sec-korure .sec-two .main-left.font2 {
+  font-family: kb;
 }
 section.sec-korure .sec-two .main-left.font2 p {
-  font-family: nb;
+  font-family: kb;
+}
+section.sec-korure .sec-two .main-left.font1 {
+  font-family: kr;
 }
 section.sec-korure .sec-two .main-left.font1 p {
-  font-family: nr;
+  font-family: kr;
 }
 section.sec-korure .sec-two .main-left > span {
   color: #36ac6e;
-  font-family: nb;
+  font-family: kb;
 }
 section.sec-korure .sec-two .main-left p {
   position: relative;
-  font-family: "nm";
+  font-family: "km";
   color: #767676;
 }
 section.sec-korure .sec-two .main-left p .left-char {
@@ -119,6 +147,10 @@ section.sec-korure .sec-two .right-main p .color-name {
   font-size: 12px;
   color: #cccccc;
 }
+section.sec-korure .sec-two .right-main p .color-name.relative {
+  position: relative;
+  top: -50px;
+}
 section.sec-korure .sec-two .right-main p .color {
   width: 60px;
   height: 60px;
@@ -140,6 +172,17 @@ section.sec-korure .sec-two .right-main p .color.color3 {
 section.sec-korure .sec-headings {
   position: relative;
   padding: 50px 0px;
+}
+section.sec-korure .sec-headings .abso-img {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  padding: 70px 0px;
+}
+section.sec-korure .sec-headings .abso-img .headingImg {
+  position: relative;
+  width: 500px;
 }
 section.sec-korure .sec-headings .img-big {
   position: relative;
@@ -377,6 +420,21 @@ section.sec-korure .sec-last-k {
 section.sec-bond {
   position: relative;
 }
+section.sec-bond .bond-head {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+section.sec-bond .bond-head h1 {
+  font-size: 124px;
+  color: #fff;
+  font-family: "nb";
+  margin: 0px;
+}
 section.sec-bond .head {
   position: relative;
 }
@@ -457,7 +515,6 @@ section.sec-bond .sec-b5 .main-flex .flex-grid img {
 }
 section.sec-bond .sec-b10 {
   position: relative;
-  padding-bottom: 150px;
 }
 section.sec-bond .sec-b10 .main-flex {
   display: flex;
@@ -493,17 +550,29 @@ section.sec-bond .sec-b11 .main-left {
   padding-right: 100px;
   width: 95%;
 }
-section.sec-bond .sec-b11 .main-left.font1 p {
-  font-family: nt;
-}
-section.sec-bond .sec-b11 .main-left.font2 p {
+section.sec-bond .sec-b11 .main-left.font1 {
   font-family: nr;
 }
-section.sec-bond .sec-b11 .main-left.font3 p {
+section.sec-bond .sec-b11 .main-left.font1 p {
+  font-family: nr;
+}
+section.sec-bond .sec-b11 .main-left.font2 {
   font-family: nm;
 }
-section.sec-bond .sec-b11 .main-left.font4 p {
+section.sec-bond .sec-b11 .main-left.font2 p {
+  font-family: nm;
+}
+section.sec-bond .sec-b11 .main-left.font3 {
   font-family: nb;
+}
+section.sec-bond .sec-b11 .main-left.font3 p {
+  font-family: nb;
+}
+section.sec-bond .sec-b11 .main-left.font4 {
+  font-family: nbl;
+}
+section.sec-bond .sec-b11 .main-left.font4 p {
+  font-family: nbl;
 }
 section.sec-bond .sec-b11 .main-left > span {
   color: #36ac6e;
