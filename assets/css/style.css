@@ -1637,6 +1637,10 @@ section.sec-mosque .sec-two .right-main p .color-name {
   font-size: 12px;
   color: #cccccc;
 }
+section.sec-mosque .sec-two .right-main p .color-name.relative {
+  position: relative;
+  top: -35px;
+}
 section.sec-mosque .sec-two .right-main p .color {
   width: 60px;
   height: 60px;
