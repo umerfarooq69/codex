@@ -555,6 +555,22 @@ section.sec-contact section.sec-contact .input-main .input-wrap .form-control {
   font-family: nbl;
   src: url(../fonts/nbl.ttf);
 }
+@font-face {
+  font-family: fnb;
+  src: url(../fonts/fliquly/nb.otf);
+}
+@font-face {
+  font-family: fnl;
+  src: url(../fonts/fliquly/nl.otf);
+}
+@font-face {
+  font-family: sr;
+  src: url(../fonts/fliquly/sr.ttf);
+}
+@font-face {
+  font-family: sb;
+  src: url(../fonts/fliquly/sb.ttf);
+}
 .heading-portfolio {
   font-family: "nb";
   font-size: 30px;
@@ -1285,17 +1301,29 @@ section.sec-filiqly .sec-two .main-left {
   position: relative;
   padding-bottom: 35px;
 }
+section.sec-filiqly .sec-two .main-left.font1 {
+  font-family: sr;
+}
 section.sec-filiqly .sec-two .main-left.font1 p {
-  font-family: nt;
+  font-family: sr;
+}
+section.sec-filiqly .sec-two .main-left.font2 {
+  font-family: fnl;
 }
 section.sec-filiqly .sec-two .main-left.font2 p {
-  font-family: nr;
+  font-family: fnl;
+}
+section.sec-filiqly .sec-two .main-left.font3 {
+  font-family: sb;
 }
 section.sec-filiqly .sec-two .main-left.font3 p {
-  font-family: nm;
+  font-family: sb;
+}
+section.sec-filiqly .sec-two .main-left.font4 {
+  font-family: fnb;
 }
 section.sec-filiqly .sec-two .main-left.font4 p {
-  font-family: nb;
+  font-family: fnb;
 }
 section.sec-filiqly .sec-two .main-left > span {
   color: #36ac6e;
@@ -1438,7 +1466,7 @@ section.sec-filiqly .sec-f9 .main-img {
   text-align: center;
 }
 section.sec-filiqly .sec-f9 .main-img img {
-  width: 90%;
+  width: 100%;
 }
 section.sec-filiqly .sec-f10 {
   position: relative;
@@ -1482,7 +1510,7 @@ section.sec-filiqly .sec-f13 .main-img {
   text-align: center;
 }
 section.sec-filiqly .sec-f13 .main-img img {
-  width: 80%;
+  width: 100%;
 }
 section.sec-mosque {
   position: relative;
