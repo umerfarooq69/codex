@@ -1768,6 +1768,9 @@ section.sec-mosque .sec-m6 .m3-img img {
   body .hide-mobile-f {
     display: none;
   }
+  .custom-container {
+    padding: 0px 15px;
+  }
   nav.navbar.navbar-expand-md.navbar-default.navbar-dark {
     background-color: #fff;
     position: fixed;
